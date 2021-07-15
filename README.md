@@ -15,7 +15,9 @@ These are the expected settings to be in compliance
 
 ### [Branch Protection](branch_protection.yaml)
 
-|-|-|
+| | |
+| - | - |
+| Branches enforced | default |
 | Require approval | yes |
 | Approvals required | 1 |
 | Dismiss stale reviews | not required |
