@@ -1,0 +1,6 @@
+optConfig:
+  disableRepoOverride: true
+  optInRepos:
+  - container-diff
+  - distroless
+  - kaniko
