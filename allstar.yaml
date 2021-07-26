@@ -4,3 +4,4 @@ optConfig:
   - container-diff
   - distroless
   - kaniko
+  - skaffold
