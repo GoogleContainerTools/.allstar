@@ -22,3 +22,16 @@ These are the expected settings to be in compliance
 | Approvals required | 1 |
 | Dismiss stale reviews | not required |
 | Block force push | yes |
+
+### [Binary Artifacts](binary_artifacts.yaml)
+
+- Binary artifacts not allowed.
+
+### [Outside Collaborators](outside.yaml)
+
+- Push access allowed.
+- Admin access not allowed.
+
+### [SECURITY.md](security.yaml)
+
+- SECURITY.md required.
