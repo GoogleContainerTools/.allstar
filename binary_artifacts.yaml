@@ -1,4 +1,6 @@
 optConfig:
   optOutStrategy: true
   disableRepoOverride: true
+  optOutRepos:
+  - skaffold
 action: issue
